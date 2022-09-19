@@ -1,4 +1,3 @@
-s (24 sloc)  741 Bytes
 
 import re
 
